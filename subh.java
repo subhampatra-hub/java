@@ -12,7 +12,7 @@ public class subh {
             }
         }
         System.out.println("The total sapace is:"+count);
-        kkk
+        
         
         
 
